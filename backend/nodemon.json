@@ -1,0 +1,10 @@
+{
+  "watch": ["."],
+  "ignore": [
+    "**/controllers/transaction.json",
+    "**/uploads/**",
+    "**/logs/**",
+    "**/temp/**"
+  ],
+  "ext": "js,json"
+}

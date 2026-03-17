@@ -1,0 +1,7 @@
+name,category,subCategory,price,discountPrice,stockQuantity,brand,description,tags,variants
+Fresh Tomatoes,Produce,Vegetables,150,120,100,Local Farm,High-quality red tomatoes,"organic,fresh",
+Apples,Produce,Fruits,200,180,50,Farm Store,Sweet and crispy apples,"healthy,organic",
+Whole Milk,Dairy,Milk,80,75,200,Happy Dairy,Fresh whole milk,"dairy,fresh",
+Eggs,Dairy,Eggs,15,12,300,Chicken Farm,Farm fresh eggs,"organic,protein","[{""name"":""Size"",""value"":""10pc""},{""name"":""Size"",""value"":""30pc""}]"
+Bread,Bakery,Bread,50,40,80,Local Bakery,Freshly baked bread daily,"organic,whole-wheat",
+Chicken Breast,Meat,Poultry,400,350,40,Quality Meats,Premium chicken breast,"protein,fresh",
